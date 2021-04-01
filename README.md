@@ -8,8 +8,8 @@
 
 ### Github Stats
 
-<a href="#"><img src="https://github-stats.hclonely.com/api?username=HCLonely&show_icons=true&count_private=true&layout=compact&theme=default" style="text-align:center"></a>
+<a href="https://github.com/HCLonely" title="HCLonely's GitHub Stats"><img src="https://github-stats.hclonely.com/api?username=HCLonely&show_icons=true&count_private=true&layout=compact&theme=default" style="text-align:center"></a>
 <br/>
-<a href="#"><img src="https://github-stats.hclonely.com/api/top-langs/?username=HCLonely&count_private=true&theme=default" style="text-align:center"></a>
+<a href="https://github.com/HCLonely" title="Most Used Languages"><img src="https://github-stats.hclonely.com/api/top-langs/?username=HCLonely&layout=compact&count_private=true&theme=default" style="text-align:center"></a>
 <br/>
-<a href="#"><img src="https://github-stats.hclonely.com/api/wakatime?username=HCLonely" style="text-align:center"></a>
+<a href="https://github.com/HCLonely" title="Wakatime Stats"><img src="https://github-stats.hclonely.com/api/wakatime?username=HCLonely" style="text-align:center"></a>
