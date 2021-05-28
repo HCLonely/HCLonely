@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HCLonely&color=brightgreen">
+</p>
 <h3 align="center">👋 Hello! I'm HCLonely.</h3>
-
 <p align="center">
   <a href="https://blog.hclonely.com">Blog</a> •
   <a href="https://twitter.com/HCL_Lonely">Twitter</a> •
