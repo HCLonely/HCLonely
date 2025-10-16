@@ -18,8 +18,4 @@
   <a href="https://wakatime.com/@HCLonely" title="Wakatime Stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HCLonely&layout=compact">
   </a>
-  <br/>
-  <a href="https://github.com/HCLonely" title="Most Used Languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCLonely&layout=compact&count_private=true&theme=default">
-  </a>
 </p>
