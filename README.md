@@ -19,7 +19,7 @@
 - 🧩 关注 Hexo 生态、前端体验与自动化工作流
 - ✍️ 在 [HCLonely Blog](https://blog.hclonely.com) 分享开发记录与实践
 
-## Selected Work
+## Pinned Work
 
 ---
 ### [hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi)
